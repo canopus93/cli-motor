@@ -1,0 +1,13 @@
+motor_name,max_fuel,price,velocity,space,type
+CB 150R,8.5 litre,22000,45 m/s,15,motor
+CBR 150R,12 litre,32000,50 m/s,20,motor
+Supra X 125,4.5 litre,11000,16 KM/h,8,motor
+Honda Beat,2.7 litre,14000,22 KM/h,15,motor
+Honda Scoopy,3.7 litre,32000,28 m/s,12,motor
+Honda Vario 150,5 litre,20500,37 m/s,10,motor
+Yamaha Vega R,3.7 litre,11000,24 m/s,10,motor
+Honda Jazz Rx, 24.5 litre, 45000, 51 m/s,30,car
+Kijang Innova, 30 litre, 30000, 35 m/s,45,car
+Toyota Avanza, 30 litre, 25000, 30 m/s,40,car
+Daihatsu Xenia, 25 litre, 23000, 28 m/s,30,car
+Mercedes Benz, 35 litre, 78000, 55 m/s,35,car

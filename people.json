@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Julius Caesar",
+    "money": 17000,
+    "garage": {
+      "capacity": 45,
+      "motor": [
+        {
+          "name": "Honda Supra Z",
+          "velocity": "15 KM/h",
+          "type": "motor",
+          "max_fuel": "4.5 litre",
+          "price": 13000,
+          "space": 15
+        },
+        {
+          "name": "Honda Jazz",
+          "velocity": "35 M/s",
+          "type": "car",
+          "max_fuel": "24.5 litre",
+          "price": 13000,
+          "space": 15
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alpen Tan",
+    "money": 25000,
+    "garage": {
+      "capacity": 30,
+      "motor": []
+    }
+  },
+  {
+    "name": "Ahmad Saputra",
+    "money": 30000,
+    "garage": {
+      "capacity": 70,
+      "motor": []
+    }
+  },
+  {
+    "name": "Tia Halim",
+    "money": 31000,
+    "garage": {
+      "capacity": 150,
+      "motor": []
+    }
+  },
+  {
+    "name": "Kris Widi",
+    "money": 21000,
+    "garage": {
+      "capacity": 80,
+      "motor": []
+    }
+  }
+]
